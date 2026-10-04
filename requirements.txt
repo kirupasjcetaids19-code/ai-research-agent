@@ -1,0 +1,7 @@
+streamlit
+ollama
+chromadb
+pypdf
+python-dotenv
+tavily-python
+reportlab
